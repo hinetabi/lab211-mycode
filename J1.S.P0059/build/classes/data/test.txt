@@ -1,0 +1,5 @@
+Binh;Vinh Phuc;1000
+Chien;Ha Noi;1500
+Giang;Thanh Hoa;3000
+Long;Ha Noi;1200
+Thanh;Nam Dinh;600

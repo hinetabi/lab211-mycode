@@ -1,0 +1,4 @@
+1|Linh|Nguyen|0987654321|linhntthe163735@fpt.edu.vn|Ha Noi|10/01/2000|Female|1300|FPT
+2|An|Tran|0123456789|antran@gmail.com|Ha Noi |12/12/2002|Male|1500|FSOFT
+3|Dung|Pham|03526813681|dungabc@fpt.edu.vn|Phu Tho|11/2/2002|Male|2000|ABC
+4|Phuong|Tran|064829183|phuong123@xyz.edu.vn|Ho Chi Minh|11/7/2002|Female|2500|Oneone
